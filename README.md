@@ -1,4 +1,4 @@
-# tgd_covid_tracker
+# Covid Tracker
 
 A new Flutter application.
 
